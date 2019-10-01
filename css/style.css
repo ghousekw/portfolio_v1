@@ -1,0 +1,35 @@
+/*
+Fonts Family
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto Slab', serif;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Playfair Display', serif;
+	font-family: 'Playball', cursive;
+	font-family: 'Titillium Web', sans-serif;
+*/
+/* Global */
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+/*===== Header ======*/
+/* Navigation */
+.navbar-brand{
+	padding: 5px;
+	border:1px solid #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+}
+
+/*===== Main Content =======*/
+
+/* Landing Page */
+.display-4{
+	font-family: 'Playfair Display', serif;
+}
+.display-3{
+	font-family: 'Titillium Web', sans-serif;
+}
+.lead{
+	font-family: 'Roboto Slab', serif;
+	}
+
+/* Footer */
